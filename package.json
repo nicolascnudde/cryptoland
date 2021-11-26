@@ -1,0 +1,14 @@
+{
+  "name": "cryptoland",
+  "version": "1.0.0",
+  "description": "Cryptoland app -- created in WordPress with a custom theme",
+  "main": "index.js",
+  "author": "Nicolas Cnudde",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.39"
+  }
+}
